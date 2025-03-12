@@ -1,19 +1,19 @@
 {
     "Kardiologie": [
       {
-        "title": "Myokardinfarkt FINAL TEST",
+        "title": "Myokardinfarkt TEST",
         "sections": [
           {
             "subtitle": "Definition",
-            "text": "Ein Myokardinfarkt (Herzinfarkt) entsteht durch eine Durchblutungsstörung der Herzkranzgefäße."
+            "text": "BlaBla"
           },
           {
             "subtitle": "Symptome",
-            "text": "Starke Brustschmerzen, Atemnot, Übelkeit, Kaltschweiß."
+            "text": "BlaBla"
           },
           {
             "subtitle": "Behandlung",
-            "text": "Sofortige Gabe von Sauerstoff, Schmerzmitteln, Heparin und eine Katheterintervention."
+            "text": "BlaBla"
           }
         ]
       },
@@ -41,203 +41,6 @@
             "text": "Betablocker zur Entlastung der Aorta und zur Hemmung weiteren Einblutens.<br>Ein operativer Eingriff im Krankenhaus ist bei einer Aortendissektion in der Regel unumgänglich."
           }          
         ]        
-      },
-      {
-        "title": "Bradykardie",
-        "sections": [
-          {
-            "subtitle": "Definition",
-            "text": "Eine Bradykardie ist eine Herzfrequenz von unter 60 Schlägen pro Minute."
-          },
-          {
-            "subtitle": "Ursachen",
-            "text": "Sinusknotendysfunktion, AV-Block, Medikamente (z.B. Betablocker)."
-          },
-          {
-            "subtitle": "Behandlung",
-            "text": "Atropin, temporärer Schrittmacher oder dauerhafte Schrittmacherimplantation."
-          }
-        ]
-      }
-    ],
-    "Neurologie": [
-      {
-        "title": "Schlaganfall",
-        "sections": [
-          {
-            "subtitle": "Definition",
-            "text": "Ein Schlaganfall ist eine plötzliche Durchblutungsstörung im Gehirn."
-          },
-          {
-            "subtitle": "Symptome",
-            "text": "Plötzliche Lähmungen, Sprachstörungen, Sehstörungen."
-          },
-          {
-            "subtitle": "Behandlung",
-            "text": "Schnelle Thrombolyse, mechanische Thrombektomie bei schweren Fällen."
-          }
-        ]
-      },
-      {
-        "title": "Epilepsie",
-        "sections": [
-          {
-            "subtitle": "Definition",
-            "text": "Epilepsie ist eine neurologische Erkrankung mit wiederholten Krampfanfällen."
-          },
-          {
-            "subtitle": "Symptome",
-            "text": "Muskelzuckungen, Bewusstseinsverlust, unkontrollierte Bewegungen."
-          },
-          {
-            "subtitle": "Behandlung",
-            "text": "Antiepileptika wie Valproat oder Levetiracetam, in schweren Fällen chirurgische Eingriffe."
-          }
-        ]
-      }
-    ],
-    "Pulmologie": [
-      {
-        "title": "Asthma bronchiale",
-        "sections": [
-          {
-            "subtitle": "Definition",
-            "text": "Chronische entzündliche Erkrankung der Atemwege mit bronchialer Hyperreagibilität."
-          },
-          {
-            "subtitle": "Symptome",
-            "text": "Atemnot, Giemen, Husten, Engegefühl in der Brust."
-          },
-          {
-            "subtitle": "Behandlung",
-            "text": "Inhalative Kortikosteroide, Beta-2-Sympathomimetika, Notfalltherapie mit Sauerstoff."
-          }
-        ]
-      },
-      {
-        "title": "COPD",
-        "sections": [
-          {
-            "subtitle": "Definition",
-            "text": "Chronisch obstruktive Lungenerkrankung, die durch eine irreversible Atemwegsverengung gekennzeichnet ist."
-          },
-          {
-            "subtitle": "Symptome",
-            "text": "Husten, Auswurf, Atemnot."
-          },
-          {
-            "subtitle": "Behandlung",
-            "text": "Raucherentwöhnung, Bronchodilatatoren, Sauerstofftherapie im fortgeschrittenen Stadium."
-          }
-        ]
-      }
-    ],
-    "Gastroenterologie": [
-      {
-        "title": "Gastroösophageale Refluxkrankheit (GERD)",
-        "sections": [
-          {
-            "subtitle": "Definition",
-            "text": "Rückfluss von Magensäure in die Speiseröhre."
-          },
-          {
-            "subtitle": "Symptome",
-            "text": "Sodbrennen, saures Aufstoßen, Brustschmerzen."
-          },
-          {
-            "subtitle": "Behandlung",
-            "text": "Protonenpumpenhemmer (PPI), Gewichtsreduktion, Vermeidung von Auslösern."
-          }
-        ]
-      },
-      {
-        "title": "Morbus Crohn",
-        "sections": [
-          {
-            "subtitle": "Definition",
-            "text": "Chronisch-entzündliche Darmerkrankung, die den gesamten Gastrointestinaltrakt betreffen kann."
-          },
-          {
-            "subtitle": "Symptome",
-            "text": "Bauchschmerzen, Durchfälle, Gewichtsverlust."
-          },
-          {
-            "subtitle": "Behandlung",
-            "text": "Immunsuppressiva, Kortikosteroide, operative Therapie bei Komplikationen."
-          }
-        ]
-      }
-    ],
-    "Nephrologie": [
-      {
-        "title": "Akutes Nierenversagen",
-        "sections": [
-          {
-            "subtitle": "Definition",
-            "text": "Plötzlicher Funktionsverlust der Nieren mit vermindertem Harnfluss."
-          },
-          {
-            "subtitle": "Ursachen",
-            "text": "Hypovolämie, nephrotoxische Medikamente, Sepsis."
-          },
-          {
-            "subtitle": "Behandlung",
-            "text": "Flüssigkeitssubstitution, Dialyse bei schweren Fällen."
-          }
-        ]
-      },
-      {
-        "title": "Chronische Niereninsuffizienz",
-        "sections": [
-          {
-            "subtitle": "Definition",
-            "text": "Fortschreitender Verlust der Nierenfunktion über Monate bis Jahre."
-          },
-          {
-            "subtitle": "Symptome",
-            "text": "Müdigkeit, Hypertonie, Ödeme."
-          },
-          {
-            "subtitle": "Behandlung",
-            "text": "Blutdruckkontrolle, Diätanpassung, Dialyse oder Nierentransplantation."
-          }
-        ]
-      }
-    ],
-    "Endokrinologie": [
-      {
-        "title": "Diabetes mellitus Typ 1",
-        "sections": [
-          {
-            "subtitle": "Definition",
-            "text": "Autoimmunerkrankung mit Zerstörung der insulinproduzierenden Betazellen des Pankreas."
-          },
-          {
-            "subtitle": "Symptome",
-            "text": "Polyurie, Polydipsie, Gewichtsverlust, Müdigkeit."
-          },
-          {
-            "subtitle": "Behandlung",
-            "text": "Insulintherapie, regelmäßige Blutzuckerkontrollen."
-          }
-        ]
-      },
-      {
-        "title": "Diabetes mellitus Typ 2",
-        "sections": [
-          {
-            "subtitle": "Definition",
-            "text": "Erworbene Insulinresistenz mit relativer Insulinsekretionsstörung."
-          },
-          {
-            "subtitle": "Symptome",
-            "text": "Durstgefühl, häufiges Wasserlassen, Infektanfälligkeit."
-          },
-          {
-            "subtitle": "Behandlung",
-            "text": "Lebensstiländerung, orale Antidiabetika, ggf. Insulintherapie."
-          }
-        ]
       }
     ]
   }  
