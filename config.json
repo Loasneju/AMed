@@ -1,46 +1,57 @@
 {
-    "Kardiologie": [
-      {
-        "title": "Myokardinfarkt TEST",
-        "sections": [
-          {
-            "subtitle": "Definition",
-            "text": "BlaBla"
-          },
-          {
-            "subtitle": "Symptome",
-            "text": "BlaBla"
-          },
-          {
-            "subtitle": "Behandlung",
-            "text": "BlaBla"
-          }
-        ]
-      },
-      {
-        "title": "Aortendissektion",
-        "sections": [
-          {
-            "subtitle": "Definition",
-            "text": "Die Aortendissektion beschreibt eine Aufspaltung der Wandschichten der Aorta infolge eines Einrisses der inneren Gefäßschicht (Intima) und wird zwischen Typ A und B unterschieden.<br>Die Mortalität liegt bereits nach 48 Stunden bei 50%, nach 2 Wochen bei 80%.<br>Es handelt sich dabei noch nicht um einen vollständigen Aortenriss, sondern vielmehr um das Eindringen von Blut zwischen die Schichten der Aortenwand.<br>Dabei reißt die Intima, wodurch sich Blut zwischen der Intima und der mittleren Schicht (Media) staut und einen Spalt bildet.<br>Dieser Spalt kann sich entlang der Aorta ausbreiten, ohne dass es sofort zu einem vollständigen Aortenriss kommt, was den Zustand besonders gefährlich macht, da er die Blutzirkulation beeinträchtigt und schwerwiegende Komplikationen wie Organschäden oder eine Ruptur der Aorta verursachen kann."
-          },
-          {
-            "subtitle": "Aortendissektion Typen",
-            "text": "Typ A: Jede Dissektion, die die A. ascendens betrifft.<br>Typ B: Dissektion mit Beginn nach Abgang der A. ascendens."
-          },
-          {
-            "subtitle": "Symptome",
-            "text": "Sehr starke, plötzliche Brust-, Bauch- oder Rückenschmerzen (stechend oder reißend)."
-          },
-          {
-            "subtitle": "Diagnostik",
-            "text": "Blutdruckunterschied zwischen den Armen (>20 mmHg Differenz)<br>Zeichen eines Schocks (Blässe, Kaltschweißigkeit, Verwirrung)<br>Neurologische Ausfälle.<br>Bei Typ A kann ein Kreislaufschock auftreten (sinkt der Blutdruck → Verdacht auf Aortenruptur!)<br>CT/MRT im Krankenhaus zur Bestätigung."
-          },
-          {
-            "subtitle": "Maßnahmen",
-            "text": "Betablocker zur Entlastung der Aorta und zur Hemmung weiteren Einblutens.<br>Ein operativer Eingriff im Krankenhaus ist bei einer Aortendissektion in der Regel unumgänglich."
-          }          
-        ]        
-      }
-    ]
-  }  
+  "Kardiologie": [
+    {
+      "title": "Myokardinfarkt TEST",
+      "sections": [
+        {
+          "subtitle": "Definition",
+          "text": "BlaBla"
+        },
+        {
+          "subtitle": "Symptome",
+          "text": "BlaBla"
+        },
+        {
+          "subtitle": "Behandlung",
+          "text": "BlaBla"
+        }
+      ]
+    }
+  ],
+  "UWU ANIME": [
+    {
+      "title": "LALALALALA",
+      "sections": [
+        {
+          "subtitle": "Definition",
+          "text": "BlaBla"
+        }
+      ]
+    },
+    {
+      "title": "Aortendissektion",
+      "sections": [
+        {
+          "subtitle": "Definition",
+          "text": "Die Aortendissektion beschreibt eine Aufspaltung der Wandschichten der Aorta infolge eines Einrisses der inneren Gefäßschicht (Intima) und wird zwischen Typ A und B unterschieden.<br>Die Mortalität liegt bereits nach 48 Stunden bei 50%, nach 2 Wochen bei 80%.<br>Es handelt sich dabei noch nicht um einen vollständigen Aortenriss, sondern vielmehr um das Eindringen von Blut zwischen die Schichten der Aortenwand.<br>Dabei reißt die Intima, wodurch sich Blut zwischen der Intima und der mittleren Schicht (Media) staut und einen Spalt bildet.<br>Dieser Spalt kann sich entlang der Aorta ausbreiten, ohne dass es sofort zu einem vollständigen Aortenriss kommt, was den Zustand besonders gefährlich macht, da er die Blutzirkulation beeinträchtigt und schwerwiegende Komplikationen wie Organschäden oder eine Ruptur der Aorta verursachen kann."
+        },
+        {
+          "subtitle": "Aortendissektion Typen",
+          "text": "Typ A: Jede Dissektion, die die A. ascendens betrifft.<br>Typ B: Dissektion mit Beginn nach Abgang der A. ascendens."
+        },
+        {
+          "subtitle": "Symptome",
+          "text": "Sehr starke, plötzliche Brust-, Bauch- oder Rückenschmerzen (stechend oder reißend)."
+        },
+        {
+          "subtitle": "Diagnostik",
+          "text": "Blutdruckunterschied zwischen den Armen (>20 mmHg Differenz)<br>Zeichen eines Schocks (Blässe, Kaltschweißigkeit, Verwirrung)<br>Neurologische Ausfälle.<br>Bei Typ A kann ein Kreislaufschock auftreten (sinkt der Blutdruck → Verdacht auf Aortenruptur!)<br>CT/MRT im Krankenhaus zur Bestätigung."
+        },
+        {
+          "subtitle": "Maßnahmen",
+          "text": "Betablocker zur Entlastung der Aorta und zur Hemmung weiteren Einblutens.<br>Ein operativer Eingriff im Krankenhaus ist bei einer Aortendissektion in der Regel unumgänglich."
+        }
+      ]
+    }
+  ]
+}
