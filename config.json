@@ -5,26 +5,15 @@
         "sections": [
           {
             "subtitle": "Definition",
-            "text": "BlaBla"
+            "text": "Ein Myokardinfarkt (Herzinfarkt) entsteht durch eine Durchblutungsstörung der Herzkranzgefäße."
           },
           {
             "subtitle": "Symptome",
-            "text": "BlaBla"
+            "text": "Starke Brustschmerzen, Atemnot, Übelkeit, Kaltschweiß."
           },
           {
             "subtitle": "Behandlung",
-            "text": "BlaBla"
-          }
-        ]
-      }
-    ],
-    "UWU ANIME": [
-      {
-        "title": "LALALALALA",
-        "sections": [
-          {
-            "subtitle": "Definition",
-            "text": "BlaBla"
+            "text": "Sofortige Gabe von Sauerstoff, Schmerzmitteln, Heparin und eine Katheterintervention."
           }
         ]
       },
@@ -59,6 +48,159 @@
             "subtitle": "Maßnahmen",
             "text": "Betablocker zur Entlastung der Aorta und zur Hemmung weiteren Einblutens.<br>Ein operativer Eingriff im Krankenhaus ist bei einer Aortendissektion in der Regel unumgänglich."
           }          
+        ]     
+      },
+      {
+        "title": "Bradykardie",
+        "sections": [
+          {
+            "subtitle": "Definition",
+            "text": "---"
+          },
+          {
+            "subtitle": "Behandlung",
+            "text": "---"
+          }
+        ]
+      }
+    ],
+    "Neurologie": [
+      {
+        "title": "Schlaganfall",
+        "sections": [
+            {
+             "subtitle": "Definition",
+             "text": "---"
+            },
+            {
+             "subtitle": "Behandlung",
+             "text": "---"
+            }
+        ]
+      },
+      {
+        "title": "Epilepsie",
+        "sections": [
+            {
+            "subtitle": "Definition",
+            "text": "---"
+            },
+            {
+            "subtitle": "Behandlung",
+            "text": "---"
+            }
+        ]
+      }
+    ],
+    "Pulmologie": [
+      {
+        "title": "Asthma bronchiale",
+        "sections": [
+            {
+            "subtitle": "Definition",
+            "text": "---"
+            },
+            {
+            "subtitle": "Behandlung",
+            "text": "---"
+            }
+        ]
+      },
+      {
+        "title": "COPD",
+        "sections": [
+            {
+            "subtitle": "Definition",
+            "text": "---"
+            },
+            {
+            "subtitle": "Behandlung",
+            "text": "---"
+            }
+        ]
+      }
+    ],
+    "Gastroenterologie": [
+      {
+        "title": "Gastroösophageale Refluxkrankheit (GERD)",
+        "sections": [
+            {
+            "subtitle": "Definition",
+            "text": "---"
+            },
+            {
+            "subtitle": "Behandlung",
+            "text": "---"
+            }
+        ]
+      },
+      {
+        "title": "Morbus Crohn",
+        "sections": [
+            {
+            "subtitle": "Definition",
+            "text": "---"
+            },
+            {
+            "subtitle": "Behandlung",
+            "text": "---"
+            }
+        ]
+      }
+    ],
+    "Nephrologie": [
+      {
+        "title": "Akutes Nierenversagen",
+        "sections": [
+            {
+            "subtitle": "Definition",
+            "text": "---"
+            },
+            {
+            "subtitle": "Behandlung",
+            "text": "---"
+            }
+        ]
+      },
+      {
+        "title": "Chronische Niereninsuffizienz",
+        "sections": [
+            {
+            "subtitle": "Definition",
+            "text": "---"
+            },
+            {
+            "subtitle": "Behandlung",
+            "text": "---"
+            }
+        ]
+      }
+    ],
+    "Endokrinologie": [
+      {
+        "title": "Diabetes mellitus Typ 1",
+        "sections": [
+            {
+            "subtitle": "Definition",
+            "text": "---"
+            },
+            {
+            "subtitle": "Behandlung",
+            "text": "---"
+            }
+        ]
+      },
+      {
+        "title": "Diabetes mellitus Typ 2",
+        "sections": [
+            {
+            "subtitle": "Definition",
+            "text": "---"
+            },
+            {
+            "subtitle": "Behandlung",
+            "text": "---"
+            }
         ]
       }
     ]
