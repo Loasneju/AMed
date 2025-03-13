@@ -1,57 +1,65 @@
 {
-  "Kardiologie": [
-    {
-      "title": "Myokardinfarkt TEST",
-      "sections": [
-        {
-          "subtitle": "Definition",
-          "text": "BlaBla"
-        },
-        {
-          "subtitle": "Symptome",
-          "text": "BlaBla"
-        },
-        {
-          "subtitle": "Behandlung",
-          "text": "BlaBla"
-        }
-      ]
-    }
-  ],
-  "UWU ANIME": [
-    {
-      "title": "LALALALALA",
-      "sections": [
-        {
-          "subtitle": "Definition",
-          "text": "BlaBla"
-        }
-      ]
-    },
-    {
-      "title": "Aortendissektion",
-      "sections": [
-        {
-          "subtitle": "Definition",
-          "text": "Die Aortendissektion beschreibt eine Aufspaltung der Wandschichten der Aorta infolge eines Einrisses der inneren Gefäßschicht (Intima) und wird zwischen Typ A und B unterschieden.<br>Die Mortalität liegt bereits nach 48 Stunden bei 50%, nach 2 Wochen bei 80%.<br>Es handelt sich dabei noch nicht um einen vollständigen Aortenriss, sondern vielmehr um das Eindringen von Blut zwischen die Schichten der Aortenwand.<br>Dabei reißt die Intima, wodurch sich Blut zwischen der Intima und der mittleren Schicht (Media) staut und einen Spalt bildet.<br>Dieser Spalt kann sich entlang der Aorta ausbreiten, ohne dass es sofort zu einem vollständigen Aortenriss kommt, was den Zustand besonders gefährlich macht, da er die Blutzirkulation beeinträchtigt und schwerwiegende Komplikationen wie Organschäden oder eine Ruptur der Aorta verursachen kann."
-        },
-        {
-          "subtitle": "Aortendissektion Typen",
-          "text": "Typ A: Jede Dissektion, die die A. ascendens betrifft.<br>Typ B: Dissektion mit Beginn nach Abgang der A. ascendens."
-        },
-        {
-          "subtitle": "Symptome",
-          "text": "Sehr starke, plötzliche Brust-, Bauch- oder Rückenschmerzen (stechend oder reißend)."
-        },
-        {
-          "subtitle": "Diagnostik",
-          "text": "Blutdruckunterschied zwischen den Armen (>20 mmHg Differenz)<br>Zeichen eines Schocks (Blässe, Kaltschweißigkeit, Verwirrung)<br>Neurologische Ausfälle.<br>Bei Typ A kann ein Kreislaufschock auftreten (sinkt der Blutdruck → Verdacht auf Aortenruptur!)<br>CT/MRT im Krankenhaus zur Bestätigung."
-        },
-        {
-          "subtitle": "Maßnahmen",
-          "text": "Betablocker zur Entlastung der Aorta und zur Hemmung weiteren Einblutens.<br>Ein operativer Eingriff im Krankenhaus ist bei einer Aortendissektion in der Regel unumgänglich."
-        }
-      ]
-    }
-  ]
-}
+    "Kardiologie": [
+      {
+        "title": "Myokardinfarkt",
+        "sections": [
+          {
+            "subtitle": "Definition",
+            "text": "BlaBla"
+          },
+          {
+            "subtitle": "Symptome",
+            "text": "BlaBla"
+          },
+          {
+            "subtitle": "Behandlung",
+            "text": "BlaBla"
+          }
+        ]
+      }
+    ],
+    "UWU ANIME": [
+      {
+        "title": "LALALALALA",
+        "sections": [
+          {
+            "subtitle": "Definition",
+            "text": "BlaBla"
+          }
+        ]
+      },
+      {
+        "title": "Aortendissektion",
+        "sections": [
+          {
+            "subtitle": "Definition",
+            "text": "Die Aortendissektion beschreibt eine Aufspaltung der Wandschichten der Aorta infolge eines Einrisses der inneren Gefäßschicht (Intima) und wird in zwei Typen unterteilt: Typ A und Typ B.<br>Es handelt sich dabei um das Eindringen von Blut zwischen die Schichten der Aortenwand. Dabei reißt die Intima, wodurch sich Blut zwischen der Intima und der mittleren Schicht (Media) staut und einen Spalt bildet. Dieser Spalt kann sich entlang der Aorta ausbreiten, was den Zustand besonders gefährlich macht.<br>Der Blutfluss wird gestört, was zu schwerwiegenden Komplikationen wie Organschäden oder einer Aortenruptur führen kann.<br>Die Überlebensrate nach 30 Tagen hängt stark von der Behandlung ab: Bei Typ A liegt sie nach chirurgischer Therapie bei etwa 80-95 %, ohne Therapie bei nur 10-20 %. Bei Typ B, mit konservativer Therapie, liegt sie bei etwa 80-90 %, ohne Therapie bei etwa 60 %."
+          },
+          {
+            "subtitle": "Aortendissektion Typen",
+            "text": "Typ A: Jede Dissektion, die die A. ascendens betrifft.<br>Typ B: Jede Dissektion, die distal des Abgangs der A. ascendens beginnt."
+          },
+          {
+            "subtitle": "Risikofaktoren",
+            "text": "Bluthochdruck (Hypertonie) ist der wichtigste Risikofaktor für eine Aortendissektion.<br>Angeborene Bindegewebserkrankungen (z. B. Marfan- oder Ehlers-Danlos-Syndrom)<br>Atherosklerose (Arterienverkalkung)<br>Angeborene Aortenanomalien (z. B. bikuspide Aortenklappe)<br>Schwangerschaft (selten, aber möglich, insbesondere im dritten Trimester)<br>Traumata oder iatrogene Ursachen (z. B. nach kardiovaskulären Eingriffen)"
+          },
+          {
+            "subtitle": "Symptome",
+            "text": "Sehr starke, plötzliche Brust-, Bauch- oder Rückenschmerzen (stechend oder reißend)."
+          },
+          {
+            "subtitle": "Diagnostik",
+            "text": "Blutdruckunterschied zwischen den Armen (> 20 mmHg Differenz)<br>Zeichen eines Schocks (Blässe, Kaltschweißigkeit, Verwirrung)<br>Neurologische Ausfälle<br>Bei Typ A kann ein Kreislaufschock auftreten (sinkt der Blutdruck → Verdacht auf Aortenruptur!)<br>CT/MRT optimal Angio-CT im Krankenhaus zur Bestätigung."
+          },
+          {
+            "subtitle": "Komplikationen",
+            "text": "Aortenruptur mit lebensbedrohlicher innerer Blutung<br>Verschluss wichtiger Arterien (z. B. Koronararterien → Herzinfarkt, Nierenarterien → Nierenversagen, Spinalarterien → Querschnittslähmung)<br>Aortenklappeninsuffizienz (besonders bei Typ A)<br>Herztamponade durch Einblutung in den Herzbeutel"
+          },
+          {
+            "subtitle": "Maßnahmen",
+            "text": "Betablocker zur Entlastung der Aorta und zur Hemmung weiteren Einblutens.<br>Ein operativer Eingriff im Krankenhaus ist bei einer Aortendissektion in der Regel unumgänglich."
+          }          
+        ]
+      }
+    ]
+  }
